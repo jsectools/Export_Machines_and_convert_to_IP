@@ -1,6 +1,6 @@
 $information = @"
-----------------------------------------
-== Export_Machines_and_convert_to_IP ==
+---------------------------------------------------------
+      ===== Export_Machines_and_convert_to_IP =====
 
 Author:: Jose Manuel Mendez
 Copyright:: Copyright (c) 2024
@@ -12,7 +12,7 @@ variable according to your domain.
 Also you will need to replace "SearchBase" variable 
 value according to the OU you want to search for.
 
-----------------------------------------
+---------------------------------------------------------
 
 "@
 
