@@ -1,15 +1,18 @@
 $information = @"
----------------------------------------------
-== Export_Machines_and_convert_to_IP
+----------------------------------------
+== Export_Machines_and_convert_to_IP ==
 
 Author:: Jose Manuel Mendez
 Copyright:: Copyright (c) 2024
-All rights of use reserved. It is not allowed to copy or use this script without explicit permission
+All rights of use reserved. It is not allowed
+to copy or use this script without explicit permission
 
-# Note: You will need to replace de value of "Domain" variable according to your domain Also you will need to replace "SearchBase" variable value according to the OU you want to search for.
+# Note: You will need to replace de value of "Domain"
+variable according to your domain.
+Also you will need to replace "SearchBase" variable 
+value according to the OU you want to search for.
 
----------------------------------------------
-
+----------------------------------------
 
 "@
 
